@@ -1,0 +1,15 @@
+body {
+    background-color: antiquewhite;
+}
+
+.main h1 {
+    color: orange;
+}
+
+.main h2 {
+    color:darkgreen;
+}
+
+.main h3 {
+    color:dimgray
+}
